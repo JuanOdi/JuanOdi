@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Juaaaananana
-- 👀 I’m interested in web delvoper, game developer and etc
-- 🌱 I’m currently learning C# and Java not Fully learned
-- 💞️ I’m looking to collaborate on C#,Java,C++ and so on
+- 👋 Hi, I’m @Juan
+- 👀 I’m interested in Web Development
 - 📫 How to reach me via email @odijuan28@gmail.com
 
 <!---
